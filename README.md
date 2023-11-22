@@ -2,6 +2,8 @@
 
 Binary Classification Web App to determine if mushrooms are edible or poisonous.
 
+[Link to Mushroom Classification Web App](https://mushroom-classification-app.streamlit.app/), deployed on Streamlit
+
 ## Table of Contents
 
 - [Description](#description)
@@ -60,8 +62,8 @@ To run the web app locally, follow these steps:
 
 ## Dependencies
 
-- streamlit==0.88.0
-- pandas==1.3.3
-- numpy==1.21.2
-- matplotlib==3.4.3
-- scikit-learn==0.24.2
+- streamlit==1.28.2
+- pandas==2.0.3
+- numpy==1.24.3
+- matplotlib==3.7.2
+- scikit-learn==1.3.2
