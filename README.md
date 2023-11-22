@@ -56,6 +56,7 @@ To run the web app locally, follow these steps:
 ## Screenshots
 
 ![Web App Screenshot](/web_app_screenshot.png)
+![Web App Screenshot 2 ](/web_app_screenshot2.png)
 
 ## Dependencies
 
